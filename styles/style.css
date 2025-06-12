@@ -152,3 +152,7 @@
   color: #555;
   margin-top: auto;
 }
+.header__link {
+  color: #2f80ed;
+  text-decoration: none;
+}
