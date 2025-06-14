@@ -361,7 +361,7 @@
 
 .footer__column_content_social {
   font-size: small;
-  margin-left: 1250px;
+  margin-left: 80px;
 }
 
 .footer__logo {
@@ -388,8 +388,11 @@
 }
 
 .footer__column-link {
+  display: flex;
   color: white;
   text-decoration: none;
+  column-gap: 10px;
+  align-items: center;
 }
 
 .footer__social-icon {
