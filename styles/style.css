@@ -355,13 +355,12 @@
 .footer__column_content_hours {
   font-size: small;
   position: absolute;
-  right: 480px;
+  right: 470px;
   margin-left: auto;
 }
 
 .footer__column_content_social {
-  font-size: small;
-  margin-left: 80px;
+  margin-left: 1185px;
 }
 
 .footer__logo {
