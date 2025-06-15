@@ -359,7 +359,7 @@
 }
 
 .footer__column_content_social {
-  right: 250px;
+  margin-left: 80px;
   position: absolute;
 }
 
