@@ -342,9 +342,7 @@
   color: #fff;
   background-color: #1f1f1f;
   padding: 60px 80px;
-}
-.footer_cover {
-  width: 100%;
+  flex-direction: column;
   position: relative;
 }
 
@@ -360,7 +358,6 @@
 
 .footer__column_content_social {
   margin-left: 80px;
-  position: absolute;
 }
 
 .footer__logo {
